@@ -5,43 +5,43 @@ let formaDePago = prompt("Por favor, ingrese la forma de pago (efectivo/transfer
 const cabañas = [
     {
         nombre: "cabaña 1",
-        cantPersonas: 2,
+        capacidad: 2,
         servicios: "Ropa blanca, 1 habitacion (cama matrimonial)",
         valorNoche: 28000
     },
     {
         nombre: "cabaña 2",
-        cantPersonas: 3,
+        capacidad: 3,
         servicios: "Ropa blanca, 2 habitaciones (cama matrimonial + cama 1 plaza)",
         valorNoche: 32000
     },
     {
         nombre: "cabaña 3",
-        cantPersonas: 4,
+        capacidad: 4,
         servicios: "Ropa blanca,  2 habitaciones (cama matrimonial + 2 camas 1 plaza)",
         valorNoche: 36000
     },
     {
         nombre: "cabaña 4",
-        cantPersonas: 5,
+        capacidad: 5,
         servicios: "Ropa blanca, 2 habitacion (cama matrimonial + 3 camas 1 plaza )",
         valorNoche: 42000
     },
     {
         nombre: "cabaña 5",
-        cantPersonas: 6,
+        capacidad: 6,
         servicios: "Ropa blanca, 2 habitaciones (2 cama matrimonial + 2 camas 1 plaza)",
         valorNoche: 46000
     },
     {
         nombre: "cabaña 6",
-        cantPersonas: 7,
+        capacidad: 7,
         servicios: "Ropa blanca,  2 habitaciones (2 cama matrimonial + 4 cama 1 plaza)",
         valorNoche: 50000
     },
     { 
         nombre: "cabaña 7",
-        cantPersonas: 8,
+        capacidad: 8,
         servicios: "Ropa blanca,  2 habitaciones (2 cama matrimonial + 4 cama 1 plaza)",
         valorNoche: 55000
     }
